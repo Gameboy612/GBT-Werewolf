@@ -1,0 +1,1 @@
+execute if entity @s[nbt={ActiveEffects:[{Id:26b,Amplifier:101b}]}] run tag @s add Invulnerable

@@ -1,0 +1,1 @@
+execute if entity @s[tag=mermaid.instant_barrier] run function game:process/markers/mermaid/instant_barrier

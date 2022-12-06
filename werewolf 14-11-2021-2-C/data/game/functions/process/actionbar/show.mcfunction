@@ -1,0 +1,7 @@
+execute if score @s Game.Class matches 1 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.wolf.class","bold":"true","color":"red"}]
+execute if score @s Game.Class matches 2 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.witch.class","bold":"true","color":"green"}]
+execute if score @s Game.Class matches 3 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.fortune.class","bold":"true","color":"green"}]
+execute if score @s Game.Class matches 4 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.guardian.class","bold":"true","color":"green"}]
+execute if score @s Game.Class matches 5 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_an","color":"gold"},{"translate":"werewolf.tutorial.old_wolf.class","bold":"true","color":"red"}]
+execute if score @s Game.Class matches 6 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.mermaid.class","bold":"true","color":"green"}]
+execute if score @s Game.Class matches 7 run title @s actionbar [{"translate":"werewolf.actionbar.you_are_a","color":"gold"},{"translate":"werewolf.tutorial.jackal.class","bold":"true","color":"green"}]

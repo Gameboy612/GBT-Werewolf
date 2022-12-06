@@ -1,0 +1,6 @@
+setblock ~ ~ ~ minecraft:air
+
+scoreboard players operation %turn WerewolfAddons.TicTacToe.stats *= N1 Numbers
+
+execute if score %turn WerewolfAddons.TicTacToe.stats matches 1 run summon minecraft:item_frame ~ ~ ~ {Motion: [0.0d, 0.0d, 0.0d], Facing: 2b, ItemRotation: 0b, Invulnerable: 0b, Air: 300s, OnGround: 0b, PortalCooldown: 0, Rotation: [180.0f, 0.0f], FallDistance: 0.0f, Item: {id: "minecraft:filled_map", Count: 1b, tag: {map: 2356}}, ItemDropChance: 1.0f, Fire: -1s, TileY: 28, TileX: -1002, Invisible: 1b, TileZ: 9, Fixed: 1b, Tags:["WerewolfAddons.TicTacToe.item_frame"]}
+execute if score %turn WerewolfAddons.TicTacToe.stats matches -1 run summon minecraft:item_frame ~ ~ ~ {Motion: [0.0d, 0.0d, 0.0d], Facing: 2b, ItemRotation: 0b, Invulnerable: 0b, Air: 300s, OnGround: 0b, PortalCooldown: 0, Rotation: [180.0f, 0.0f], FallDistance: 0.0f, Item: {id: "minecraft:filled_map", Count: 1b, tag: {map: 2358}}, ItemDropChance: 1.0f, Fire: -1s, TileY: 27, TileX: -1002, Invisible: 1b, TileZ: 9, Fixed: 1b, Tags:["WerewolfAddons.TicTacToe.item_frame"]}

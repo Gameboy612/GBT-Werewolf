@@ -1,0 +1,1 @@
+execute unless score @s Game.Camp matches 1 run playsound minecraft:block.note_block.basedrum master @s ~ ~ ~ 1 0

@@ -1,0 +1,1 @@
+execute if score %Witch Class.Left matches 1.. run function class:distribute/class/witch/grant

@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ air run function class:night/mermaid/abilities/instant_barrier/setblock

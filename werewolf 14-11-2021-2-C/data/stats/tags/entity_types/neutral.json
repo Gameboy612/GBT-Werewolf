@@ -1,0 +1,21 @@
+{
+	"description": "Mobs that can attack players if aggravated but does not necessarily attack players by default, including spiders and not including piglins",
+	"courtesy": "Aeldrion",
+	"values": [
+		"minecraft:bee",
+		"minecraft:dolphin",
+		"minecraft:polar_bear",
+		"minecraft:wolf",
+		"minecraft:cave_spider",
+		"minecraft:enderman",
+		"minecraft:iron_golem",
+		"minecraft:spider",
+		"minecraft:zombified_piglin",
+		"minecraft:llama",
+		"minecraft:trader_llama",
+		"minecraft:pufferfish",
+		"minecraft:axolotl",
+		"minecraft:glow_squid",
+		"minecraft:goat"
+	]
+}

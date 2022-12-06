@@ -1,0 +1,1 @@
+function stats:speed/calculation

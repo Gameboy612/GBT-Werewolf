@@ -1,0 +1,23 @@
+{
+    "criteria": {
+      "playerhurt": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": {
+            "equipment": {
+              "mainhand": {
+                "nbt": "{Item:{Vote:1}}"
+              }
+            }
+          },
+          "entity": {
+            "type": "minecraft:player"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "game:process/day/vote/cast"
+    }
+  }
+  

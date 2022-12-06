@@ -1,0 +1,3 @@
+
+
+give @s wooden_sword{Item:{Vote:1},Stats:{Weapon:{Votes:1}},display:{Name:'{"translate":"werewolf.item.voting_knife","color":"gold","italic":false}',Lore:['{"translate":"werewolf.item.voting_knife.lore.1","color":"gray","italic":false}','{"translate":"werewolf.item.voting_knife.lore.2","color":"gray","italic":false}','{"translate":"werewolf.item.voting_knife.lore.3","color":"gray","italic":false}']},HideFlags:63,Unbreakable:1b} 1

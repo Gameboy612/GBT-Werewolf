@@ -1,0 +1,1 @@
+execute if score #EveryOtherTick Stats.temp matches 1 run function class:night/heartbeating/playsound

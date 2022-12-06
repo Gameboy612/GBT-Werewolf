@@ -1,0 +1,3 @@
+
+
+give @s stone_sword{Item:{Vote:1},Stats:{Weapon:{Votes:2}},display:{Name:'{"translate":"werewolf.item.officers_batton","color":"gold","italic":false}',Lore:['{"translate":"werewolf.item.officers_batton.lore.1","color":"gray","italic":false}','{"translate":"werewolf.item.officers_batton.lore.2","color":"gray","italic":false}','{"translate":"werewolf.item.officers_batton.lore.3","color":"gray","italic":false}']},HideFlags:63,Unbreakable:1b} 1

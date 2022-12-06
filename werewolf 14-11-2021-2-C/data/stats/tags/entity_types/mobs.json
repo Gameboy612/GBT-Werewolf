@@ -1,0 +1,9 @@
+{
+	"description": "All mob entities",
+	"courtesy": "Aeldrion",
+	"values": [
+		"#stats:passive",
+		"#stats:neutral",
+		"#stats:hostile"
+	]
+}

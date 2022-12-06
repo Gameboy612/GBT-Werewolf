@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "playerhurt": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [],
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:player",
+            "equipment": {
+              "mainhand": {
+                "nbt": "{Item:{WolfBlade:1}}"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "class:night/wolf/blade/hit"
+  }
+}

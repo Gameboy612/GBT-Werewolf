@@ -1,0 +1,2 @@
+give @s warped_fungus_on_a_stick{Stats:{RightClickID:192041},display:{Name:'{"translate":"werewolf.item.ability.fortune.book","italic":false,"color":"aqua"}'}}
+give @s warped_fungus_on_a_stick{Stats:{RightClickID:192042},display:{Name:'{"translate":"werewolf.item.ability.fortune.wolf_glow","italic":false,"color":"aqua"}'}}

@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick{Stats:{RightClickID:192051},display:{Name:'{"translate":"werewolf.item.ability.guardian.book","italic":false,"color":"light_purple"}'}}

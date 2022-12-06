@@ -1,0 +1,28 @@
+{
+    "values": [
+        "#stats:air",
+        "minecraft:water",
+        "#minecraft:saplings",
+        "#minecraft:buttons",
+        "#minecraft:crops",
+        "#minecraft:fire",
+        "#minecraft:flowers",
+        "#minecraft:signs",
+        "#minecraft:small_flowers",
+        "#minecraft:standing_signs",
+        "#minecraft:stone_pressure_plates",
+        "#minecraft:tall_flowers",
+        "#minecraft:wooden_buttons",
+        "#minecraft:wooden_pressure_plates",
+        "minecraft:lava",
+        "#minecraft:rails",
+        "minecraft:seagrass",
+        "minecraft:tall_seagrass",
+        "#minecraft:corals",
+        "minecraft:lily_pad",
+        "minecraft:kelp_plant",
+        "minecraft:sea_pickle",
+        "#minecraft:wall_corals",
+        "#minecraft:candles"
+    ]
+}

@@ -1,0 +1,1 @@
+item replace entity @s weapon.mainhand with splash_potion{CustomPotionEffects:[{Id:14b,Amplifier:1b,Duration:200,ShowParticles:0b}],Potion:"minecraft:thick",CustomPotionColor:6740991,Item:{Witch:{Potion:"Invisible"}},display:{Name:'{"translate":"werewolf.item.witch.invisible","italic":false,"color":"aqua"}'}} 1

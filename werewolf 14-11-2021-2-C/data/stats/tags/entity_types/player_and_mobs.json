@@ -1,0 +1,8 @@
+{
+	"description": "All mob entities",
+	"courtesy": "Aeldrion",
+	"values": [
+		"#stats:mobs",
+		"minecraft:player"
+	]
+}

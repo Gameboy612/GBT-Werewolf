@@ -1,0 +1,1 @@
+function class:distribute/class/villager/grant

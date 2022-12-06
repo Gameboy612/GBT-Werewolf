@@ -1,0 +1,1 @@
+execute unless score @s Witch.Poison matches 1 run give @s warped_fungus_on_a_stick{Stats:{RightClickID:192031},display:{Name:'{"translate":"werewolf.item.ability.witch.poison","italic":false,"color":"light_purple"}'}}

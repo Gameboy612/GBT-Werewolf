@@ -1,0 +1,1 @@
+execute if score %Jackal Class.Left matches 1.. run function class:distribute/class/jackal/grant

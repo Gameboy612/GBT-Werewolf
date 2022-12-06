@@ -1,0 +1,11 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "playerhurt": {
+            "trigger": "minecraft:player_hurt_entity"
+        }
+    },
+    "rewards": {
+        "function": "stats:atkspd/apply_cd"
+    }
+}

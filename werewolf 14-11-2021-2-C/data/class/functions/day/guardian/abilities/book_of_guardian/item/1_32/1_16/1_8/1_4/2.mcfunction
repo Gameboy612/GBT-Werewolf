@@ -1,0 +1,1 @@
+data modify storage werewolf:guardian book.lines[0] append value '[{"text":"2. ","color":"reset"},{"selector":"@p[scores={Game.PlayerID=2}]","color":"reset"},{"text":"\\n"},{"translate":"werewolf.item.guardian.book.protect","color":"gold","clickEvent":{"action":"run_command","value":"/trigger Guardian.Protect set 2"}}]'

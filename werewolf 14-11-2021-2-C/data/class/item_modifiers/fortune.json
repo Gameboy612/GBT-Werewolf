@@ -1,0 +1,16 @@
+[
+  {
+    "function": "minecraft:copy_nbt",
+    "source": {
+      "type": "minecraft:storage",
+      "source": "werewolf:fortune"
+    },
+    "ops": [
+      {
+        "source": "book.pages[0]",
+        "target": "pages",
+        "op": "append"
+      }
+    ]
+  }
+]
