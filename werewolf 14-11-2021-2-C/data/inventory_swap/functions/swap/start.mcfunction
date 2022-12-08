@@ -12,11 +12,7 @@ execute as @e[type=marker,tag=inventory_marker] if score @s InventoryUUID = @p[t
 
 
 # Shuffle the list once
-execute as @e[type=marker,tag=SwapPlayer.marker] run function inventory_swap:swap/shuffle
-execute as @e[type=marker,tag=SwapPlayer.marker] run function inventory_swap:swap/stats_shuffle
-
-execute as @e[type=marker,tag=SwapPlayer.marker] run data modify storage inventory_swap Inventory1 set from entity @s data.Inventories[-1]
-execute as @e[type=marker,tag=SwapPlayer.marker] run data modify storage inventory_swap Inventory2 set from entity @s data.Inventories[-1]
+execute as @e[type=marker,tag=SwapPlayer.marker] run function inventory_swap:swap/start/inventory_marker
 
 # Convert inventory to 2 seperate shulker box inventories
 data remove storage inventory_swap Inventory2[{Slot:0b}]
